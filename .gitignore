@@ -1,0 +1,12 @@
+# MATLAB / Simulink junk
+slprj/
+*.asv
+*.autosave
+*.slxc
+*.slx~
+*.mex*
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
