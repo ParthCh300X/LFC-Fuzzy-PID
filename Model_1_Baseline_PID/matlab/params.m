@@ -31,4 +31,6 @@ Kp2 = 0.30;
 Ki2 = 0.10;
 Kd2 = 0.00;
 
+Kp_test = 0.05;
+
 disp('✅ Baseline PID parameters loaded');
